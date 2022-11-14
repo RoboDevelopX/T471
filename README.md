@@ -2,7 +2,6 @@
 # Tools Rental E-Commerce Platform
 
 Laith Shono's graduation/final-year project (Course: T471).  
-BSc in ITc, Arab Open University, Riyadh, Saudi Arabia.  
 
 ## Idea
 Some jobs require specific tools to do it. Sometimes we do not have these tools. So we go and buy them, use them once, and never use them again. This results in a loss of money and lots of harm to the environment.
