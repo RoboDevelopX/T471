@@ -1,0 +1,10 @@
+------ T471-1 ------
+Report 1 	= 20/25
+Presentation 1 	= 3/5
+
+------ T471-2 ------
+Final defense grades:
+	- Implementation MTA 	= 21/25
+	- Presentation 2 	= 9/10
+
+Final report (Report 2) 	= 31/35
